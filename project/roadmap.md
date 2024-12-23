@@ -8,10 +8,12 @@ up:: [[index]]
 
 ## NOW
 
-- [ ] Documentation
-	- [/] Create a new concentrator docs repo on github
-	- [ ] Deploy the docs under [docs.concernor.eth.limo](https://docs.concernor.eth.limo)
-	- [?] Automate the deploy process?
+- [/] Documentation
+	- [x] Create a new concentrator docs repo on github
+	- [x] Deploy the docs under [concernor.github.io](https://concernor.github.io/docs)
+	- [x] Automate the deploy process?
+	- [x] Document the deploy & update process
+	- [ ] 
 
 ## Near Future
 
