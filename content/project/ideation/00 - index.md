@@ -11,6 +11,7 @@ up:: [[roadmap]]
 - [?] [[Echosystem|Echo System]] development 
 - [?] [[CONCERN-ed]] 
 - [?] [[CONCERNed Media]] 
+- [?] [[CONCERN.db]]
 - [?] Merch Store
 
 

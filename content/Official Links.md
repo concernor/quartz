@@ -1,4 +1,4 @@
-up:: [[index]]
+up:: [[index|Home]]
 
 
 > [!info]+ Official Links
