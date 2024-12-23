@@ -1,4 +1,10 @@
-up:: [[index]]
+---
+aliases:
+  - Official Links
+title: Official Links
+---
+
+up:: [[index|Home]]
 
 
 > [!info]+ Official Links
@@ -8,9 +14,8 @@ up:: [[index]]
 > - Discord: [concernor](https://discord.gg/JBdqYQqwZs)
 > - Github: [@concernor](https://github.com/concernor)
 
-^0f14db
+^b34bcc
 
-^097db7
 ## ENS
 
 --

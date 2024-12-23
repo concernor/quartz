@@ -1,7 +1,7 @@
 ---
 up: "[[index]]"
 ---
-up:: [[index]]
+up:: [[index|Home]]
 
 
 ### How it started
