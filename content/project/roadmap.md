@@ -13,8 +13,8 @@ up:: [[index|Home]]
 	- [x] Deploy the docs under [concernor.github.io](https://concernor.github.io/docs)
 	- [x] Automate the deploy process?
 	- [x] Document the deploy & update process
-	- [ ] 
 
+- [ ] [[tokenomics]]
 ## Near Future
 
 - [?] [[Proof of Concern|POC]] NFT

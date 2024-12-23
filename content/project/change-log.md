@@ -2,4 +2,4 @@ up:: [[roadmap]]
 
 
 - [x] Setup website under [concernor.eth.limo](https://concernor.eth.limo)
-- [x] Secure the [[Official Links]]
+- [x] Secure the [[official-links]]

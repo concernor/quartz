@@ -3,12 +3,10 @@ title: Overview
 aliases:
   - Home
 ---
-****
-![[Official Links#^0f14db]]
+![[official-links#^b34bcc]]
 
 
-
-Start from the [[Origins]] to understand where the inspiration came from. Then go through the: 
+Start from the [[origins]] to understand where the inspiration came from. Then go through the: 
 - [[roadmap]] for the current plans
 - [[change-log]] to see what has been done so far
 - [[00 - index|idea tank]] to see into the possibilities of the future.
